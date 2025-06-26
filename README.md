@@ -1,2 +1,2 @@
 # Seni-Kita
-Project Arsitektur Integrasi dan Enterprise
+Project Arsitektur Integrasi dan Enterprise - SMT 6
